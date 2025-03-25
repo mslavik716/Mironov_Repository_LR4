@@ -15,7 +15,8 @@ void task2()
 }
 void task3()
 {
-    
+    cout << "ASCII код символа " << ch1 << ": " << (int)ch1 << endl;
+    cout << "ASCII код символа " << ch2 << ": " << (int)ch2 << endl;
 }
 void task4()
 {
