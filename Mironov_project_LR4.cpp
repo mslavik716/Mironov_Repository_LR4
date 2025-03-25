@@ -19,7 +19,7 @@ void task3()
 }
 void task4()
 {
-    
+    cout << "Сумма кодов ASCII ch1 и ch2: " << ((int)ch1 + (int)ch2) << endl;
 }
 int main() {
     int o;
