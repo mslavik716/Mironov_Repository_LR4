@@ -12,7 +12,8 @@ void task1()
 }
 void task2()
 {
-    
+    cout << "Введите символ ch2: ";
+    cin >> ch2;
 }
 void task3()
 {
