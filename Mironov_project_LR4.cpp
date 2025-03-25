@@ -7,7 +7,8 @@ char ch1;
 char ch2;
 void task1()
 {
-
+    cout << "Введите символ ch1: ";
+    cin >> ch1;
 }
 void task2()
 {
